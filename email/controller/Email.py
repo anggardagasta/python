@@ -37,8 +37,8 @@ from email.encoders import encode_base64
 
 class Email:
     def sendEmail():
-        sender = "anggarda.gasta@redawning.com"
-        password = "anggarda11"
+        sender = "test@email.com"
+        password = "password"
 
         recipients = "anggarda.gasta.p@gmail.com, anggarda.gasta.p@mail.ugm.ac.id"
 

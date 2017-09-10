@@ -12,7 +12,7 @@ class Config:
     def connection(self):
         print ("Connect to database...")
         # Open database connection
-        db = pymysql.connect("localhost", "root", "tiffany", "jireh")
+        db = pymysql.connect("localhost", "root", "", "jireh")
         self.__db = db
 
         # prepare a cursor object using cursor() method
