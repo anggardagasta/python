@@ -1,3 +1,11 @@
-Name,Position,Age
-Anggarda,Backend Developer,24
-Bill Gates,Chairman,50
+id,Username,Full Name
+1,anggarda,Anggarda Gasta
+2,zera,zera valenta
+3,yane,Yane Maria Margaretha
+4,afifah,Afifah
+5,aries,Aries Irawan
+6,muliyanto,Timotius Muliyanto
+7,meyta,Meita Wahyu Susanti
+8,nelson,Nelson Kalalo
+9,dita,Pradipta Ruth
+10,admin,Admin
